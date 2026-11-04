@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Project covers and case-study links are intended for indexing.
+
+Sitemap: https://m142411.github.io/sitemap.xml

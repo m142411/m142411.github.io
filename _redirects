@@ -1,0 +1,3 @@
+# The portfolio uses hash routes (#project/...), so no SPA catch-all is needed.
+# Unknown paths should reach the real 404 page with a 404 status.
+/index.html / 301!
